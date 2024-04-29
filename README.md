@@ -1,1 +1,3 @@
-# mocha
+# Mocha
+
+A cool Discord bot!
