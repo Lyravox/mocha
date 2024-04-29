@@ -20,8 +20,6 @@ bot = commands.Bot(
 
 # Loading cogs
 bot.load_extension('cogs.information')
-bot.load_extension('cogs.fun')
-bot.load_extension('cogs.affirmation')
 
 # Startup event
 @bot.event
